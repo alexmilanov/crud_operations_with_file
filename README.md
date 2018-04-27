@@ -14,3 +14,8 @@ var some_var = [
   }
 ];
 ```
+Currently, the code support all C(reate), R(ead), (U)pdate and D(elete) operations. In addition, it support checking of unique fields (are they values already used) throught the checkDuplicates method
+
+## Usage
+
+ToDo
